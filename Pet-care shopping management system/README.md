@@ -6,7 +6,7 @@ Ecommerce will make up 22% of global retail sales by 2023.
 22% of global retail sales will be thanks to ecommerce by 2023. To give context to this growth, 14.1% of global retail sales were ecommerce purchases in 2019. The growing number of ecommerce websites is definitely a contributing factor to this holistic number.
 
 **Sample Screenshot:**
-![Sample](sample.png)
+![Sample](sample.jpg)
 
 **Project Video:**
 [https://www.youtube.com/watch?v=UVw7neMnN34&t=91s](https://www.youtube.com/watch?v=UVw7neMnN34&t=91s)
